@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang: "en"></html>
+<head>
+    <metacharset= "UTF-8"></metacharset>
+
+    <style>
+        div.h1 {
+            color: #F9FAF8;
+            font-size: 24px;
+            text-align: left;
+        }
+        div.h2 {
+            color: #E5E7EB;
+            font-size: 18px;
+            text-align: right;
+        }
+        div.h3 {
+            color: #F9FAF8;
+            font-size: 48px;
+            font-weight: bolder;
+            text-align: left;
+        }
+        div.h4 {
+            color: #1F2937;
+            font-size: 36px;
+            font-weight: bolder;
+            text-align: center;
+        }
+        div.p1  {
+            color: #E5E7EB;
+            font-size: 18px;
+            text-align: left;
+        }
+        div.p2 {
+            color: #E5E7EB;
+            font-size: 18px;
+            text-align: center;
+        }
+        div.p3 {
+            color: #1F2937;
+            font-size: 36px;
+            font-style: light italic;
+            text-align: left;
+            background-color: #E5E7EB;
+        }
+        div.p4 {
+            color:#1F2937;
+            font-size: 18px;
+            font-weight: bolder;
+            text-align: right;
+        }
+        div.button {
+            color: #3882F6;
+            text-align: center;
+        }
+    </style>    
+</head>
+    <body>
+        <h1>Header Logo</h1>
+        <h2>header link one</h2>
+        <h2>header link two</h2>
+        <h2>header link three</h2>
+        <h3>This Website is awesome</h3>
+        <p1>This website has some subtext that goes under the main title. It's smaller font and the color is lower contrast</p1>
+        <button>Sign up</button>
+
+        <h4>Some random information</h4>
+        <p2>this is some subtext under an illustration or image</p2>
+        <p2>this is some subtext under an illustration or image</p2>
+        <p2>this is some subtext under an illustration or image</p2>
+        <p2>this is some subtext under an illustration or image</p2>
+
+        <p3>This is an inspiring quote or a testimonial from a customer. Maybe it's just filling up space, or maybe people will actually read it. Who knows? All I know is that it looks nice</p3>
+        <p4>-Thor, God of Thunder</p4>
+
+        <p5>Call to action! It's time!</p5>
+        <p6>Sign up for our products by clicking that button right over there!</p6>
+        <button>Sign up</button>
+    </body>
+    <footer>
+        <p7>Copyright @ Datdragons</p7>
+    </footer>
+   
